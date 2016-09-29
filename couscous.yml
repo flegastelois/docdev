@@ -16,3 +16,4 @@ menu:
 include:
     - docs
 
+baseUrl: https://glpi-project.github.io/docdev/
