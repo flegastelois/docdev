@@ -1,0 +1,18 @@
+title: GLPi Developer Documentation
+template:
+    url: https://github.com/CouscousPHP/Template-ReadTheDocs
+menu:
+    items:
+        home:
+            text: GLPi Project
+            # You can use relative urls
+            absoluteUrl: http://www.glpi-project.org
+        sourcecode:
+            text: Source code
+            relativeUrl: 01_sourcecode.html
+        codingstandards:
+            text: Coding standards
+            relativeUrl: 02_codingstandards.html
+include:
+    - docs
+

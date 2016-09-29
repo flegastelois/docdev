@@ -1,5 +1,5 @@
 {
     "require": {
-        "justinwalsh/daux.io": "^0.2.3"
+        "couscous/couscous": "^1.5"
     }
 }
